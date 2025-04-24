@@ -37,6 +37,10 @@ nav .menu {
   color: #DEFD01;
   position: relative;
 }
+
+html {
+  scroll-behavior: smooth;
+}
 nav .menu a {
   position: relative;
   font-size: 1.2rem;
